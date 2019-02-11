@@ -11,7 +11,7 @@ El uso actual es como ejemplo de estructura de proyecto.
 - Carlos Eli Lopez Tellez
 - Giancarlos Garza Barron
 - Christian Almaguer Pineda
-- Elberth Javier Gomez Leal
+- Orlando Misael Islas Perez
 
 ### Licencia
 Apache 2.0
